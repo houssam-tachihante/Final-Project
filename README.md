@@ -27,26 +27,8 @@ using the DataCo Smart Supply Chain Dataset.
 This dataset supports demand forecasting, logistics analysis, customer segmentation, and inventory analytics.
 
 ## Research Papers Used
-### Research Paper 1
 
-**Title:**
-Deep learning framework for interpretable supply chain forecasting using SOM–ANN and SHAP
-
-**Authors:**
-Khandakar Rabbi Ahmed, Md Eahia Ansari, Md. Naimul Ahsan, Arafat Rohan, Md Borhan Uddin, Mir Araf Hossain Rivin
-
-**Journal:**
-Scientific Reports (Nature Portfolio), 2025
-
-**Key Contribution:**
-This paper proposes an interpretable deep learning framework combining:
-- Self-Organizing Maps (SOM)
-- Artificial Neural Networks (ANN)
-- SHAP-based interpretability
-
-to forecast supply chain performance metrics while maintaining transparency in model decisions.
-
-### Research Paper 2
+### Research Paper 
 
 **Title:**
 Data Analytics in Supply Chain Management: A State-of-the-Art Literature Review
