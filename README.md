@@ -72,19 +72,6 @@ Can customers or products be clustered into meaningful behavioral groups?
 - PCA-based cluster visualization
 - Inventory & demand risk insights (Paper 2 focus)
 
-## Dashboard Structure
-
-The project contains two Streamlit applications, one per research paper:
-```bash
-.
-├── ResearchPaper1.py        # Interpretable ML & Deep Learning (Paper 1)
-├── ResearchPaper2.py        # Data Analytics & SCM Review (Paper 2)
-├── DataCoSupplyChainDataset.csv
-├── paper1/
-│   └── README.md            # Detailed Paper 1 documentation
-├── paper2/
-│   └── README.md            # Detailed Paper 2 documentation
-└── README.md                # This file
 ```
 ## Tools & Technologies
 - Python 3.10+
@@ -100,14 +87,9 @@ The project contains two Streamlit applications, one per research paper:
 pip install -r requirements.txt
 ```
 
-### 2. Run Paper 1 dashboard
+### 2. Run Paper dashboard
 ```bash
-streamlit run ResearchPaper1.py
-```
-
-### 3. Run Paper 2 dashboard
-```bash
-streamlit run ResearchPaper2.py
+streamlit run ResearchPaper.py
 ```
 
 ## Academic Value
@@ -118,12 +100,5 @@ This project:
 - Emphasizes interpretability, not just accuracy
 - Bridges literature review insights with practical modeling
 
-It is suitable for:
-- Advanced statistics / analytics courses
-- Supply chain analytics coursework
-- Research methodology demonstrations
 
-📜 License
 
-This project is licensed under the GPL-3.0 License.
-Dataset usage is strictly for educational and academic purposes.
